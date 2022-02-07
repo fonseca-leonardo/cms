@@ -1,0 +1,22 @@
+{
+  "components": [
+    {
+      "props": { "title": "Botao 1", "variant": "contained" },
+      "id": "15c79948-4389-4267-940e-564564567",
+      "col": { "xs": 12, "sm": 12, "md": 4, "lg": 6, "xl": 4 },
+      "component": "button"
+    },
+    {
+      "props": { "title": "Botao 2", "variant": "outlined" },
+      "id": "839d092d-b2ab-4c21-bf71-645756475678",
+      "col": { "xs": 12, "sm": 12, "md": 4, "lg": 6, "xl": 4 },
+      "component": "button"
+    },
+    {
+      "props": { "title": "Botao 3", "variant": "text" },
+      "id": "839d09asdfadsf2d-b2ab-4c21-bf71-645756475678",
+      "col": { "xs": 12, "sm": 12, "md": 4, "lg": 6, "xl": 4 },
+      "component": "button"
+    }
+  ]
+}

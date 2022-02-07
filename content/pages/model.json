@@ -1,0 +1,18 @@
+{
+  "components": [
+    {
+      "props": { "title": "Fabiao", "variant": "text" },
+      "id": "15c79948-4389-4267-940e-3e1ec29e4547",
+      "col": { "xs": 12, "sm": 12, "md": 8, "lg": 6, "xl": 4 },
+      "component": "button"
+    },
+    {
+      "props": { "title": "Root 3", "variant": "outlined" },
+      "id": "839d092d-b2ab-4c21-bf71-3973b86d5282",
+      "col": { "xs": 6, "sm": 12, "md": 8, "lg": 6, "xl": 4 },
+      "component": "button"
+    }
+  ],
+  "dynamic": true,
+  "params": ["id", "name"]
+}
